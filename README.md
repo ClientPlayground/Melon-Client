@@ -1,6 +1,8 @@
 # Melon Client
 1.8.9 | Beta v2
 
+todo: decencies decompile the client because im too lazy
+
 ## Disclaimer
 This repo is for educational purposes only!
 
