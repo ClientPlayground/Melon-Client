@@ -1,0 +1,13 @@
+{
+  "prefixes": {
+    "none": "",
+    "fps": "FPS: %fps%",
+    "cps": "CPS: %lcps% | %rcps%",
+    "coordinates": "X: %x%\nY: %y%\nZ: %z%",
+    "memoryUsage": "Memory Usage: %usage%",
+    "ping": "Ping: %ping%"
+  },
+  "settings": {
+
+  }
+}
