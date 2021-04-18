@@ -4,7 +4,7 @@
 ## Disclaimer
 This repo is for educational purposes only!
 
-The purpose of this repo is because Kaimson is an idiotic skid.
+The purpose of this repo is because Kaimson is a clown
 
 ## Extra Info
-Decompiled by Hot-Tutorials lul
+Fixed & Leaked By Decencies.
